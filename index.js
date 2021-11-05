@@ -331,12 +331,6 @@ function lotsOfArt(array) {
 console.log('Task 7:', lotsOfArt(artists));
 
 
-let counter = 0;
-for (var i = 0; i < 5; i++) {
-  counter += i;
-}
-console.log(counter);
-
 /* ***** END OF TASKS ***** */
 
 /* 🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑*/
